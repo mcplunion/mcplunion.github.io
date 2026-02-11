@@ -1,7 +1,7 @@
 MCPL Union, AFSCME Local 2802
 =============================
 Current Union Officers
-----------------------
+------------
 - President: Paula Gray-Overtoom 
 - Vice President: Nadja Kowalchuk 
 - Secretary/Treasurer: Lauren Ondrejack 
