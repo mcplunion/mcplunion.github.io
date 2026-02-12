@@ -1,5 +1,7 @@
 MCPL Union, AFSCME Local 2802
 =============================
+The Monroe County Public Library organized with AFSCME in 2008 to provide support to library workers.
+
 Current Union Officers
 ------------
 - President: Paula Gray-Overtoom 
