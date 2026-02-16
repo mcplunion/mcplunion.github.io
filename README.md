@@ -1,6 +1,7 @@
 # MCPL Union, AFSCME Local 2802
 
 - [Why Join the Union?](https://mcplunion.github.io/membership/why-join)
+- [How Much Does it Cost?](https://mcplunion.github.io/membership/cost)
 
 
 ## Current Union Officers
