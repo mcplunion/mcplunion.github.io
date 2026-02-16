@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Why Join the Union?"
 permalink: /membership/why-join
+---
 
 AFSCME Local 2802 members have an independent strength in numbers that is powerful. We regularly meet outside of work for both meetings and social events where we can freely express concerns and share our perspectives. Our goal is to help make the library a comfortable, respectful place to work, where every voice is heard. All union-eligible staff members are always welcome to join meetings or social events. We look forward to connecting with you!
 
