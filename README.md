@@ -1,6 +1,6 @@
 # MCPL Union, AFSCME Local 2802
 
-- [Why Join the Union?](/membership/why-join.md)
+- [Why Join the Union?](membership/why-join)
 
 
 ## Current Union Officers
