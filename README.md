@@ -2,6 +2,7 @@
 
 - [Why join the union?](https://mcplunion.github.io/membership/why-join)
 - [How much does it cost?](https://mcplunion.github.io/membership/cost)
+- [How to join?](https://mcplunion.github.io/membership/how-join)
 
 
 ## Current Union Officers
