@@ -3,5 +3,19 @@
 **All employees** at MCPL can ask for union representation, even if you are not a dues paying member. The only exceptions are admin or confidential employees.
 
 - You can always ask if a meeting is disciplinary. If it is, you can say that you'd like to have a union steward present and reschedule the meeting.
-- Reach out to one of the current [officers or stewards](../) and someone will get back to you right away.
-- 
+- Reach out to one of the current [officers or stewards](https://mcplunion.github.io) and someone will get back to you right away.
+- Even if you don’t have a steward, you can request to have a copy of anything added to your disciplinary record sent to the union (this helps with our record keeping).
+
+## Counseling
+
+## Discipline
+
+## Grievances
+
+If any of you are inclined to file a grievance (and honestly, it'd be great if we never felt that need), there are a few things to keep in mind:
+
+- Keep track of any paper/electronic communication. A paper trail is very important.  If something happens and there's no paper trail, then write down a detailed account of what happened as soon as possible.
+- Remember, you are allowed to have an AFSCME representative with you for any disciplinary meeting (i.e. if it's not what the Agreement refers to as "Counseling", then you can have someone with you—an officer or steward).
+- When called in for discipline, the most important thing to do is **listen** and take notes.  The time to argue against the perceived fairness or legitimacy of the disciplinary action is during the grievance process, not during the disciplinary meeting.  Getting into a he said/she said debate during a disciplinary meeting will only confuse the issue.
+- Finally, any grievance must be filed **within 10 days** of the event.
+
