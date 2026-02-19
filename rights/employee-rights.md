@@ -7,6 +7,7 @@
 - Even if you don’t have a steward, you can request to have a copy of anything added to your disciplinary record sent to the union (this helps with our record keeping).
 
 ## Counseling
+Counseling is a meeting between the employee and the supervisor, or another managerial employee, or a member of the leadership team, which may focus on a specific incident, an aspect of an employee's performance identified as needing improvement, or the employee's overall performance or conduct.
 
 ## Discipline
 
