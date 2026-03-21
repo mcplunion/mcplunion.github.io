@@ -9,6 +9,10 @@
 ## Counseling
 Counseling is a meeting between the employee and the supervisor, or another managerial employee, or a member of the leadership team, which may focus on a specific incident, an aspect of an employee's performance identified as needing improvement, or the employee's overall performance or conduct.
 
+- You will probably be asked to sign a statement outlining the behavior your supervisor is counseling you about and changes they want to see that would indicate improvement.
+- Signing the statement does not mean you agree with it. Your signature just means that you have read the statement.
+- You can ask to have your own statement attached to the document.
+
 ## Discipline
 [Weingarten rights](https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/weingarten-rights) allow dues-paying union members to request union representation in meetings with management if they believe disciplinary action may result. The meeting must be rescheduled, and the staff member may select a steward to be present at the next meeting. Stewards have the right to meet privately with the employee before the investigatory meeting. They may also take notes during the meeting, but cannot speak during the meeting. **You can always ask during a meeting with your manager “Is this a disciplinary meeting?”** and you have the right to stop the meeting and seek out a steward if it is.
 
