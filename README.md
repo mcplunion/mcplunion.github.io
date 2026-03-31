@@ -4,6 +4,7 @@
 - [How much does it cost?](https://mcplunion.github.io/membership/cost)
 - [How to join?](https://mcplunion.github.io/membership/how-join)
 - [How can I find out more?](https://mcplunion.github.io/membership/more-info)
+- [Employee Rights](https://mcplunion.github.io/rights/employee-rights)
 
 ## 2026 Meeting Schedule
 Meetings happen on the **last Monday of the month**. We might not meet every month and will send email reminders to your personal email if you have provided it to us.
