@@ -30,7 +30,7 @@
 - The union helped shape the structure of Continuous Improvement.
 - The union negotiated to get additional clarification about harassment added to the personnel manual. 
 
-# 2019
+## 2019
 
 - The union advocated hard for a security person to be at Ellettsville.
 
