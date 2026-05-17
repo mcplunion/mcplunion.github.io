@@ -22,7 +22,7 @@
 - Union pressure and conversation with management got leadership to use commentable Google docs all staff could see and engage with.
 - The union was able to work with leadership to provide some stress relieving options during the pandemic.
 
- ### Pre-Pandemic
+### Pre-Pandemic
  
 - Rearranging the 2nd floor information desks to better fit the safety and needs of staff.
 - The union was able to influence leadership to ask the city for more parking tags.
