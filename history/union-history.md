@@ -13,6 +13,8 @@
 - Worked in the contract a request for dialogue to occur if staff layoffs were to occur.
 - Part-time incentive increase to make it more accessible for part time staff to join the union.
 - Training guidelines for LMC participation.
+- Worked to get frontline staff included in committees for larger projects that span multiple departments.
+- Created a best practices/training document with adminstration for LMC meetings.
 
 ## 2020
 ### Post-Pandemic
