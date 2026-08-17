@@ -15,8 +15,8 @@ Meetings happen on the **last Monday of the month**. We might not meet every mon
 - April 27, at 7 PM at Runcible Spoon. A link for those that want to join remotely is listed on the agenda and will be sent out with the email reminder.
 - ~~May 25~~ 
 - June 29, at 7 PM at the Old National Bank across the street from the library. Links for those that want to join remotely are listed on the agenda.
-- ~July 27~
-- August 31
+- ~~July 27~~
+- August 31, at 7 PM at Runcible Spoon.
 - September 28
 - October 26
 - November 30
